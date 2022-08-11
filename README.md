@@ -9,8 +9,6 @@ My last internship was at RelationalAI where I created a data-informed, interact
 
 In addition to CS, I'm passionate about using technology for education. Whether it's [making calculus visualizations](https://elijahcalc.netlify.app/euler/) or [visualizing rudimentary machine learning concepts](https://beautifuldatascience.netlify.app/), I love creating tools that help students learn more effectively.
 
-I also love streamlining workflows and productivity systems to reduce friction between ideas and action. Catch me task-managing in Notion and calendar-ing in Cron Calendar 24/7 😎
-
 <!--
 **ecuber/ecuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
